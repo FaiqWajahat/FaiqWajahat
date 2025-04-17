@@ -10,6 +10,6 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I started as a freelance developer and now building AI-driven gym and apparel management systems!
+
 
 

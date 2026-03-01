@@ -18,9 +18,6 @@ Next.js, React, Tailwind CSS, DaisyUI, Framer Motion
 **Backend & Database Systems**
 Node.js, Express.js, MongoDB (MERN Stack), RESTful API Design
 
-**Mobile Engineering**
-React Native, Android (Jetpack Compose)
-
 **Infrastructure & Concepts**
 Parallel & Distributed Computing, System Architecture, Secure Authentication (Clerk)
 
